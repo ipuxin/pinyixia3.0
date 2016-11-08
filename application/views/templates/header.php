@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="format-detection" content="telephone=no">
-	<title>拼一下商城</title>
+    <title>拼一下商城</title>
 	<meta name="renderer" content="webkit">
 	<meta http-equiv="pragma" content="no-cache">
 	<meta http-equiv="cache-control" content="no-cache">
@@ -19,6 +19,8 @@
 	<script type="text/javascript" src="<?=$staticPath?>js/store.min.js?v=<?=$version?>"></script>
 	<script type="text/javascript" src="<?=$staticPath?>js/fastclick.js?v=<?=$version?>"></script>
 	<script type="text/javascript" src="<?=$staticPath?>js/base.js?v=<?=$version?>"></script>
+	<script type="text/javascript" src="<?=$staticPath?>js/idangerous.swiper-2.1.min.js?v=<?=$version?>"></script>
+	
 	<!--<script type="text/javascript" name="baidu-tc-cerfication" data-appid="5788146" src="http://apps.bdimg.com/cloudaapi/lightapp.js"></script>-->
 </head>
 <script>
@@ -33,5 +35,9 @@ var PAGE_NewLogin = '<?=$newlogin?>';
 
 var shareHost = '<?=$shareUrl?>';
 var resHost = '<?=$resUrl?>';
+/*console.log(PYX_UserId);
+console.log(shareHost);
+console.log(resHost);
+console.log(PYX_PageName);*/
 </script>
 <!--主体部分-->

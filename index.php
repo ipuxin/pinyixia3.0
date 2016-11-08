@@ -1,4 +1,23 @@
 <?php
+
+
+$ch = curl_init($login_url);
+curl_setopt($ch, CURLOPT_HEADER, 0);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_POST, 1);
+curl_setopt($ch, CURLOPT_COOKIEJAR, $cookie_file);
+curl_setopt($ch, CURLOPT_POSTFIELDS, $post_fields);
+curl_exec($ch);
+curl_close($ch);
+
+$url='http://218.61.108.163/ACTIONQUERYGRADUATESCHOOLREPORTBYSELF.APPPROCESS';
+$ch = curl_init($url);
+curl_setopt($ch, CURLOPT_HEADER, 0);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 0);
+curl_setopt($ch, CURLOPT_COOKIEFILE, $cookie_file);
+$contents = curl_exec($ch);
+
+
 /**
  * CodeIgniter
  *

@@ -1,0 +1,96 @@
+执行日期：20161108090945
+接口路径:http://tapi.pingoing.cn/restful.PYX3_User.Query?OpenId=ory7Sv1RX9HcaYO0QzlOwT21l_FM&$Limit=1
+超时时间:5
+处理时间:0.065349
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821235ca090421a209754bf", "UnionId" : "", "OpenId" : "ory7Sv1RX9HcaYO0QzlOwT21l_FM", "Subscribe" : 1, "NickName" : "Rain Cai", "Thumbnail" : "http://wx.qlogo.cn/mmopen/cicPzWItF7kka2p8pB5pI7QOFpz4vBpH2cj3Ricc3XzNficLxfFKWJdZFKSTazInynrOK3svva3j6dM8WRFDgpSMib2l8pLM0Thf/0", "UserInfo" : { "Sex" : 1, "City" : "郑州", "Province" : "河南", "Country" : "中国", "Subscribe_time" : 1478567030 } }], "Count" : 1 }
+
+执行日期：20161108091109
+接口路径:http://tapi.pingoing.cn/restful.PYX3_User.Query?OpenId=ory7Sv1RX9HcaYO0QzlOwT21l_FM&$Limit=1
+超时时间:5
+处理时间:0.005185
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821235ca090421a209754bf", "UnionId" : "", "OpenId" : "ory7Sv1RX9HcaYO0QzlOwT21l_FM", "Subscribe" : 1, "NickName" : "Rain Cai", "Thumbnail" : "http://wx.qlogo.cn/mmopen/cicPzWItF7kka2p8pB5pI7QOFpz4vBpH2cj3Ricc3XzNficLxfFKWJdZFKSTazInynrOK3svva3j6dM8WRFDgpSMib2l8pLM0Thf/0", "UserInfo" : { "Sex" : 1, "City" : "郑州", "Province" : "河南", "Country" : "中国", "Subscribe_time" : 1478567030 } }], "Count" : 1 }
+
+执行日期：20161108091520
+接口路径:http://tapi.pingoing.cn/restful.PYX3_User.Query?OpenId=ory7Sv1RX9HcaYO0QzlOwT21l_FM&$Limit=1
+超时时间:5
+处理时间:0.006847
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821235ca090421a209754bf", "UnionId" : "", "OpenId" : "ory7Sv1RX9HcaYO0QzlOwT21l_FM", "Subscribe" : 1, "NickName" : "Rain Cai", "Thumbnail" : "http://wx.qlogo.cn/mmopen/cicPzWItF7kka2p8pB5pI7QOFpz4vBpH2cj3Ricc3XzNficLxfFKWJdZFKSTazInynrOK3svva3j6dM8WRFDgpSMib2l8pLM0Thf/0", "UserInfo" : { "Sex" : 1, "City" : "郑州", "Province" : "河南", "Country" : "中国", "Subscribe_time" : 1478567378 } }], "Count" : 1 }
+
+执行日期：20161108091552
+接口路径:http://tapi.pingoing.cn/restful.PYX3_User.Query?OpenId=ory7Sv1RX9HcaYO0QzlOwT21l_FM&$Limit=1
+超时时间:5
+处理时间:0.004363
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821235ca090421a209754bf", "UnionId" : "", "OpenId" : "ory7Sv1RX9HcaYO0QzlOwT21l_FM", "Subscribe" : 1, "NickName" : "Rain Cai", "Thumbnail" : "http://wx.qlogo.cn/mmopen/cicPzWItF7kka2p8pB5pI7QOFpz4vBpH2cj3Ricc3XzNficLxfFKWJdZFKSTazInynrOK3svva3j6dM8WRFDgpSMib2l8pLM0Thf/0", "UserInfo" : { "Sex" : 1, "City" : "郑州", "Province" : "河南", "Country" : "中国", "Subscribe_time" : 1478567378 } }], "Count" : 1 }
+
+执行日期：20161108092520
+接口路径:http://tapi.pingoing.cn/restful.PYX3_User.Query?OpenId=ory7Sv1RX9HcaYO0QzlOwT21l_FM&$Limit=1
+超时时间:5
+处理时间:0.0073299999999999
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821235ca090421a209754bf", "UnionId" : "", "OpenId" : "ory7Sv1RX9HcaYO0QzlOwT21l_FM", "Subscribe" : 1, "NickName" : "Rain Cai", "Thumbnail" : "http://wx.qlogo.cn/mmopen/cicPzWItF7kka2p8pB5pI7QOFpz4vBpH2cj3Ricc3XzNficLxfFKWJdZFKSTazInynrOK3svva3j6dM8WRFDgpSMib2l8pLM0Thf/0", "UserInfo" : { "Sex" : 1, "City" : "郑州", "Province" : "河南", "Country" : "中国", "Subscribe_time" : 1478567378 } }], "Count" : 1 }
+
+执行日期：20161108094334
+接口路径:http://tapi.pingoing.cn/restful.PYX3_User.Query?OpenId=ory7Sv1RX9HcaYO0QzlOwT21l_FM&$Limit=1
+超时时间:5
+处理时间:0.006145
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821235ca090421a209754bf", "UnionId" : "", "OpenId" : "ory7Sv1RX9HcaYO0QzlOwT21l_FM", "Subscribe" : 1, "NickName" : "Rain Cai", "Thumbnail" : "http://wx.qlogo.cn/mmopen/cicPzWItF7kka2p8pB5pI7QOFpz4vBpH2cj3Ricc3XzNficLxfFKWJdZFKSTazInynrOK3svva3j6dM8WRFDgpSMib2l8pLM0Thf/0", "UserInfo" : { "Sex" : 1, "City" : "郑州", "Province" : "河南", "Country" : "中国", "Subscribe_time" : 1478567378 } }], "Count" : 1 }
+
+执行日期：20161108094544
+接口路径:http://tapi.pingoing.cn/restful.PYX3_User.Query?OpenId=ory7Sv1RX9HcaYO0QzlOwT21l_FM&$Limit=1
+超时时间:5
+处理时间:0.009702
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821235ca090421a209754bf", "UnionId" : "", "OpenId" : "ory7Sv1RX9HcaYO0QzlOwT21l_FM", "Subscribe" : 1, "NickName" : "Rain Cai", "Thumbnail" : "http://wx.qlogo.cn/mmopen/cicPzWItF7kka2p8pB5pI7QOFpz4vBpH2cj3Ricc3XzNficLxfFKWJdZFKSTazInynrOK3svva3j6dM8WRFDgpSMib2l8pLM0Thf/0", "UserInfo" : { "Sex" : 1, "City" : "郑州", "Province" : "河南", "Country" : "中国", "Subscribe_time" : 1478567378 } }], "Count" : 1 }
+
+执行日期：20161108094857
+接口路径:http://tapi.pingoing.cn/restful.PYX3_User.Query?id=5821235ca090421a209754bf&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.005336
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821235ca090421a209754bf" }], "Count" : 1 }
+
+执行日期：20161108094930
+接口路径:http://tapi.pingoing.cn/restful.PYX3_User.Query?id=5821235ca090421a209754bf&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.014767
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821235ca090421a209754bf" }], "Count" : 1 }
+
+执行日期：20161108094933
+接口路径:http://tapi.pingoing.cn/restful.PYX3_User.Query?id=5821235ca090421a209754bf&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.007037
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821235ca090421a209754bf", "Addresses" : [{ "AddressId" : "add_1478569770803", "RealName" : "哈哈", "Mobile" : "15244455677", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310105", "DistrictName" : "长宁区", "Address" : "哈哈", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161108095555
+接口路径:http://tapi.pingoing.cn/restful.PYX3_User.Query?OpenId=ory7Sv1RX9HcaYO0QzlOwT21l_FM&$Limit=1
+超时时间:5
+处理时间:0.036435
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821235ca090421a209754bf", "UnionId" : "", "OpenId" : "ory7Sv1RX9HcaYO0QzlOwT21l_FM", "Subscribe" : 1, "NickName" : "Rain Cai", "Thumbnail" : "http://wx.qlogo.cn/mmopen/cicPzWItF7kka2p8pB5pI7QOFpz4vBpH2cj3Ricc3XzNficLxfFKWJdZFKSTazInynrOK3svva3j6dM8WRFDgpSMib2l8pLM0Thf/0", "UserInfo" : { "Sex" : 1, "City" : "郑州", "Province" : "河南", "Country" : "中国", "Subscribe_time" : 1478567378 }, "Addresses" : [{ "AddressId" : "add_1478569770803", "RealName" : "哈哈", "Mobile" : "15244455677", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310105", "DistrictName" : "长宁区", "Address" : "哈哈", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161108100235
+接口路径:http://tapi.pingoing.cn/restful.PYX3_User.Query?OpenId=ory7Sv1RX9HcaYO0QzlOwT21l_FM&$Limit=1
+超时时间:5
+处理时间:0.006151
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821235ca090421a209754bf", "UnionId" : "", "OpenId" : "ory7Sv1RX9HcaYO0QzlOwT21l_FM", "Subscribe" : 1, "NickName" : "Rain Cai", "Thumbnail" : "http://wx.qlogo.cn/mmopen/cicPzWItF7kka2p8pB5pI7QOFpz4vBpH2cj3Ricc3XzNficLxfFKWJdZFKSTazInynrOK3svva3j6dM8WRFDgpSMib2l8pLM0Thf/0", "UserInfo" : { "Sex" : 1, "City" : "郑州", "Province" : "河南", "Country" : "中国", "Subscribe_time" : 1478567378 }, "Addresses" : [{ "AddressId" : "add_1478569770803", "RealName" : "哈哈", "Mobile" : "15244455677", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310105", "DistrictName" : "长宁区", "Address" : "哈哈", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161108101254
+接口路径:http://tapi.pingoing.cn/restful.PYX3_User.Query?OpenId=ory7Sv1RX9HcaYO0QzlOwT21l_FM&$Limit=1
+超时时间:5
+处理时间:0.013126
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821235ca090421a209754bf", "UnionId" : "", "OpenId" : "ory7Sv1RX9HcaYO0QzlOwT21l_FM", "Subscribe" : 1, "NickName" : "Rain Cai", "Thumbnail" : "http://wx.qlogo.cn/mmopen/cicPzWItF7kka2p8pB5pI7QOFpz4vBpH2cj3Ricc3XzNficLxfFKWJdZFKSTazInynrOK3svva3j6dM8WRFDgpSMib2l8pLM0Thf/0", "UserInfo" : { "Sex" : 1, "City" : "郑州", "Province" : "河南", "Country" : "中国", "Subscribe_time" : 1478567378 }, "Addresses" : [{ "AddressId" : "add_1478569770803", "RealName" : "哈哈", "Mobile" : "15244455677", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310105", "DistrictName" : "长宁区", "Address" : "哈哈", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161108101407
+接口路径:http://tapi.pingoing.cn/restful.PYX3_User.Query?OpenId=ory7Sv1RX9HcaYO0QzlOwT21l_FM&$Limit=1
+超时时间:5
+处理时间:0.006366
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821235ca090421a209754bf", "UnionId" : "", "OpenId" : "ory7Sv1RX9HcaYO0QzlOwT21l_FM", "Subscribe" : 1, "NickName" : "Rain Cai", "Thumbnail" : "http://wx.qlogo.cn/mmopen/cicPzWItF7kka2p8pB5pI7QOFpz4vBpH2cj3Ricc3XzNficLxfFKWJdZFKSTazInynrOK3svva3j6dM8WRFDgpSMib2l8pLM0Thf/0", "UserInfo" : { "Sex" : 1, "City" : "郑州", "Province" : "河南", "Country" : "中国", "Subscribe_time" : 1478567378 }, "Addresses" : [{ "AddressId" : "add_1478569770803", "RealName" : "哈哈", "Mobile" : "15244455677", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310105", "DistrictName" : "长宁区", "Address" : "哈哈", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161108101505
+接口路径:http://tapi.pingoing.cn/restful.PYX3_User.Query?id=5821235ca090421a209754bf&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.003692
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821235ca090421a209754bf", "Addresses" : [{ "AddressId" : "add_1478569770803", "RealName" : "哈哈", "Mobile" : "15244455677", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310105", "DistrictName" : "长宁区", "Address" : "哈哈", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161108101516
+接口路径:http://tapi.pingoing.cn/restful.PYX3_User.Query?id=5821235ca090421a209754bf&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.004128
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821235ca090421a209754bf", "Addresses" : [{ "AddressId" : "add_1478569770803", "RealName" : "哈哈", "Mobile" : "15244455677", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310105", "DistrictName" : "长宁区", "Address" : "哈哈", "Type" : null }] }], "Count" : 1 }
+

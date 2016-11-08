@@ -1,0 +1,18 @@
+执行日期：20161108095602
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=5821235ca090421a209754bf&~creatTime=DESC
+超时时间:5
+处理时间:0.0061460000000001
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108101458
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=5821235ca090421a209754bf&~creatTime=DESC
+超时时间:5
+处理时间:0.015382
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108101519
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=5821235ca090421a209754bf&~creatTime=DESC
+超时时间:5
+处理时间:0.003664
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+

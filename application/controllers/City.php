@@ -69,6 +69,7 @@ class City extends MY_Controller {
 	//根据坐标获取城市定位信息
 	public function getLocMsg(){
 		extract($this->input->post());
+
 		$res = $this->divisions_model->getLocMsg($lng,$lat);
 
 		if($res['Result']['City']['Id']=='310200'){

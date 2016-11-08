@@ -1,0 +1,132 @@
+执行日期：20161108090945
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.004666
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108091005
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.004398
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108091014
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.003862
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108091024
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.0042110000000001
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108091035
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.003838
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108091043
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.00438
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108091103
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.013739
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108091109
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.00313
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108091520
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.003636
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108091552
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.003146
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108091603
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.014189
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108092520
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.0035470000000001
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108094334
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.006901
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108094544
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.013692
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108095555
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.00398
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108095608
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.01353
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108095619
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.013497
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108095628
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.014348
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108100235
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.00311
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108101254
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.003504
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108101407
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.003546
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108101522
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:0.004577
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+

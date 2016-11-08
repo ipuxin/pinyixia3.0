@@ -129,3 +129,85 @@ footer warp i.icon{background-size:28px;}
 			Product.init_page();
 		});
 	</script>
+	<script src="<?=$staticPath?>js/jweixin-1.0.0.js"></script>
+    <script type="text/javascript">
+        wx.config({
+            debug: false,
+            appId: '<?= $signPackage['appId']?>',
+            timestamp: <?= $signPackage['timestamp']; ?>,
+            nonceStr: '<?= $signPackage["nonceStr"]; ?>',
+            signature: '<?= $signPackage["signature"]; ?>',
+            jsApiList: [
+            	'checkJsApi',
+                'onMenuShareTimeline',
+                'onMenuShareAppMessage',
+                'onMenuShareQQ',
+                'onMenuShareWeibo',
+                'onMenuShareQZone'
+            ]
+        });
+        wx.ready(function() {
+            // 分享好友
+            wx.onMenuShareAppMessage({
+                title: "我参加了拼一下：<?=$pro['Prices']['Normal']?>元抢<?=$pro['ProductName']?><?=$pro['Description']?>",
+                desc: '<?=$pro['Description']?>',
+                link: "<?= $signPackage['url'] ?>",
+                imgUrl: '<?=$staticPath?>images/banner_1.png',
+                trigger: function (res) {
+                    // 不要尝试在trigger中使用ajax异步请求修改本次分享的内容，因为客户端分享操作是一个同步操作，这时候使用ajax的回包会还没有返回
+                    // alert('用户点击发送给朋友');
+                },
+                success: function (res) {
+                    // alert('已分享');
+                },
+                cancel: function (res) {
+                    // alert('已取消');
+                },
+                fail: function (res) {
+                    // alert(JSON.stringify(res));
+                }
+            });
+
+            // 分享朋友圈
+            wx.onMenuShareTimeline({
+                title: '我参加了拼一下：x元抢（拼）+标题，详情，图片', 
+                 desc: '标题',
+                link: "<?= $signPackage['url'] ?>",
+                imgUrl: 'http://adm.pingoing.cn/data/images/product/2016-09-27/51dd8e7359ede753a80ff97eaefaf702.jpg',
+                success: function () { 
+                    // 用户确认分享后执行的回调函数
+                },
+                cancel: function () { 
+                    // 用户取消分享后执行的回调函数
+                }
+            });
+
+            // 分享QQ
+            wx.onMenuShareQQ({
+                title: '我参加了拼一下：x元抢（拼）+标题，详情，图片', // 分享标题
+                desc: '标题描述！', // 分享描述
+                link: 'http://www.raincai.com', // 分享链接
+                imgUrl: 'http://www.raincai.com', // 分享图标
+                success: function () { 
+                   // 用户确认分享后执行的回调函数
+                },
+                cancel: function () { 
+                   // 用户取消分享后执行的回调函数
+                }
+            });
+
+            // 分享QQ空间
+            wx.onMenuShareQZone({
+                title: '我参加了拼一下：x元抢（拼）+标题，详情，图片', // 分享标题
+                desc: '标题描述', // 分享描述
+                link: 'http://www.raincai.com/', // 分享链接
+                imgUrl: 'http://www.raincai.com', // 分享图标
+                success: function () { 
+                   // 用户确认分享后执行的回调函数
+                },
+                cancel: function () { 
+                   // 用户取消分享后执行的回调函数
+                }
+            });
+        });
+    </script>

@@ -1,0 +1,42 @@
+执行日期：20161108094933
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.006063
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57ee0858a090421188ecb87a", "OrderId" : 1788 }], "Count" : 57 }
+
+执行日期：20161108094933
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Order.Query?OrderId=1816&UserId=5821235ca090421a209754bf&$Limit=1
+超时时间:5
+处理时间:0.014656
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58212f2da090421a209754c0", "ShopId" : "57cfa184a090421aa0e7179d", "ShopName" : "我的店铺", "UserId" : "5821235ca090421a209754bf", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 806, "ProductRealId" : "57ea1235a090421aec229a88", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-09-27/5bbb08957bf25af3f816bc4b8689eeeb.jpg", "ProductName" : "调整一下产品测试一下", "Prices" : 11, "PricesAll" : { "Normal" : 11, "Market" : "100" }, "DeliverAddress" : "滴滴滴滴", "Description" : "等丰富的的方法", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1478569770803", "RealName" : "哈哈", "Mobile" : "15244455677", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310105", "DistrictName" : "长宁区", "Address" : "哈哈", "Type" : null, "RealAddress" : "上海市长宁区哈哈" }, "ProductFee" : 11, "freightFee" : 5, "OrderFee" : 16, "OrderId" : 1816, "CreatTime" : 1478569773, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161108094936
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Order.Query?OrderId=1816&$Limit=1
+超时时间:5
+处理时间:0.014926
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58212f2da090421a209754c0", "ShopId" : "57cfa184a090421aa0e7179d", "ShopName" : "我的店铺", "UserId" : "5821235ca090421a209754bf", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 806, "ProductRealId" : "57ea1235a090421aec229a88", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-09-27/5bbb08957bf25af3f816bc4b8689eeeb.jpg", "ProductName" : "调整一下产品测试一下", "Prices" : 11, "PricesAll" : { "Normal" : 11, "Market" : "100" }, "DeliverAddress" : "滴滴滴滴", "Description" : "等丰富的的方法", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1478569770803", "RealName" : "哈哈", "Mobile" : "15244455677", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310105", "DistrictName" : "长宁区", "Address" : "哈哈", "Type" : null, "RealAddress" : "上海市长宁区哈哈" }, "ProductFee" : 11, "freightFee" : 5, "OrderFee" : 16, "OrderId" : 1816, "CreatTime" : 1478569773, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161108094942
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Order.Query?OrderId=1816&UserId=5821235ca090421a209754bf&$Limit=1
+超时时间:5
+处理时间:0.003844
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58212f2da090421a209754c0", "ShopId" : "57cfa184a090421aa0e7179d", "ShopName" : "我的店铺", "UserId" : "5821235ca090421a209754bf", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 806, "ProductRealId" : "57ea1235a090421aec229a88", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-09-27/5bbb08957bf25af3f816bc4b8689eeeb.jpg", "ProductName" : "调整一下产品测试一下", "Prices" : 11, "PricesAll" : { "Normal" : 11, "Market" : "100" }, "DeliverAddress" : "滴滴滴滴", "Description" : "等丰富的的方法", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1478569770803", "RealName" : "哈哈", "Mobile" : "15244455677", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310105", "DistrictName" : "长宁区", "Address" : "哈哈", "Type" : null, "RealAddress" : "上海市长宁区哈哈" }, "ProductFee" : 11, "freightFee" : 5, "OrderFee" : 16, "OrderId" : 1816, "CreatTime" : 1478569773, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161108094943
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Order.Query?OrderId=1816&$Limit=1
+超时时间:5
+处理时间:0.004805
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58212f2da090421a209754c0", "ShopId" : "57cfa184a090421aa0e7179d", "ShopName" : "我的店铺", "UserId" : "5821235ca090421a209754bf", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 806, "ProductRealId" : "57ea1235a090421aec229a88", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-09-27/5bbb08957bf25af3f816bc4b8689eeeb.jpg", "ProductName" : "调整一下产品测试一下", "Prices" : 11, "PricesAll" : { "Normal" : 11, "Market" : "100" }, "DeliverAddress" : "滴滴滴滴", "Description" : "等丰富的的方法", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1478569770803", "RealName" : "哈哈", "Mobile" : "15244455677", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310105", "DistrictName" : "长宁区", "Address" : "哈哈", "Type" : null, "RealAddress" : "上海市长宁区哈哈" }, "ProductFee" : 11, "freightFee" : 5, "OrderFee" : 16, "OrderId" : 1816, "CreatTime" : 1478569773, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161108095150
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Order.Query?OrderId=1816&UserId=5821235ca090421a209754bf&$Limit=1
+超时时间:5
+处理时间:0.060726
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58212f2da090421a209754c0", "ShopId" : "57cfa184a090421aa0e7179d", "ShopName" : "我的店铺", "UserId" : "5821235ca090421a209754bf", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 806, "ProductRealId" : "57ea1235a090421aec229a88", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-09-27/5bbb08957bf25af3f816bc4b8689eeeb.jpg", "ProductName" : "调整一下产品测试一下", "Prices" : 11, "PricesAll" : { "Normal" : 11, "Market" : "100" }, "DeliverAddress" : "滴滴滴滴", "Description" : "等丰富的的方法", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1478569770803", "RealName" : "哈哈", "Mobile" : "15244455677", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310105", "DistrictName" : "长宁区", "Address" : "哈哈", "Type" : null, "RealAddress" : "上海市长宁区哈哈" }, "ProductFee" : 11, "freightFee" : 5, "OrderFee" : 16, "OrderId" : 1816, "CreatTime" : 1478569773, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161108095152
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Order.Query?OrderId=1816&$Limit=1
+超时时间:5
+处理时间:0.014361
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58212f2da090421a209754c0", "ShopId" : "57cfa184a090421aa0e7179d", "ShopName" : "我的店铺", "UserId" : "5821235ca090421a209754bf", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 806, "ProductRealId" : "57ea1235a090421aec229a88", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-09-27/5bbb08957bf25af3f816bc4b8689eeeb.jpg", "ProductName" : "调整一下产品测试一下", "Prices" : 11, "PricesAll" : { "Normal" : 11, "Market" : "100" }, "DeliverAddress" : "滴滴滴滴", "Description" : "等丰富的的方法", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1478569770803", "RealName" : "哈哈", "Mobile" : "15244455677", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310105", "DistrictName" : "长宁区", "Address" : "哈哈", "Type" : null, "RealAddress" : "上海市长宁区哈哈" }, "ProductFee" : 11, "freightFee" : 5, "OrderFee" : 16, "OrderId" : 1816, "CreatTime" : 1478569773, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+

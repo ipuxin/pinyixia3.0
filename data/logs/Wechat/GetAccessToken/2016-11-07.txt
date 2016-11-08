@@ -1,0 +1,12 @@
+执行日期：20161107195134
+接口路径:https://api.weixin.qq.com/cgi-bin/token?
+超时时间:5 
+处理时间:2.967907
+返回参数:{"errcode":45009,"errmsg":"reach max api daily quota limit hint: [oJZlRA0494e575]"}
+
+执行日期：20161107195134
+接口路径:https://api.weixin.qq.com/cgi-bin/menu/create?access_token=
+超时时间:5 
+处理时间:0.059825
+返回参数:{"errcode":41001,"errmsg":"access_token missing hint: [ZFnOya0494vr36!]"}
+

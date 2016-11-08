@@ -2,9 +2,6 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /* Õ¯’æ≈‰÷√ */
-//$config['base_url'] = 'http://new.pingoing.cn/';
-//$config['res_url'] = 'http://adm.pingoing.cn';
-//$config['share_url'] = 'http://new.pingoing.cn/';
 $config['base_url'] = 'http://twx.pingoing.cn/';
 $config['res_url'] = 'http://adm.pingoing.cn';
 $config['share_url'] = 'http://twx.pingoing.cn/';

@@ -1,0 +1,138 @@
+执行日期：20161108091018
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57ca7b11a090511294d86edd&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.015592
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108091046
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.013955
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "CityName" : "上海市", "ShopName" : "我的店铺", "ShopLogo" : "", "ShopId" : 43, "FreightFreeAmout" : 100 }], "Count" : 1 }
+
+执行日期：20161108091116
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.012976
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "CityName" : "上海市", "ShopName" : "我的店铺", "ShopLogo" : "", "ShopId" : 43, "FreightFreeAmout" : 100 }], "Count" : 1 }
+
+执行日期：20161108091611
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.003781
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "CityName" : "上海市", "ShopName" : "我的店铺", "ShopLogo" : "", "ShopId" : 43, "FreightFreeAmout" : 100 }], "Count" : 1 }
+
+执行日期：20161108091917
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.014232
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "CityName" : "上海市", "ShopName" : "我的店铺", "ShopLogo" : "", "ShopId" : 43, "FreightFreeAmout" : 100 }], "Count" : 1 }
+
+执行日期：20161108091931
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.012878
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "CityName" : "上海市", "ShopName" : "我的店铺", "ShopLogo" : "", "ShopId" : 43, "FreightFreeAmout" : 100 }], "Count" : 1 }
+
+执行日期：20161108092440
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.003804
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "CityName" : "上海市", "ShopName" : "我的店铺", "ShopLogo" : "", "ShopId" : 43, "FreightFreeAmout" : 100 }], "Count" : 1 }
+
+执行日期：20161108092530
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.013364
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "CityName" : "上海市", "ShopName" : "我的店铺", "ShopLogo" : "", "ShopId" : 43, "FreightFreeAmout" : 100 }], "Count" : 1 }
+
+执行日期：20161108093449
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.004169
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "CityName" : "上海市", "ShopName" : "我的店铺", "ShopLogo" : "", "ShopId" : 43, "FreightFreeAmout" : 100 }], "Count" : 1 }
+
+执行日期：20161108093455
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.003407
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "CityName" : "上海市", "ShopName" : "我的店铺", "ShopLogo" : "", "ShopId" : 43, "FreightFreeAmout" : 100 }], "Count" : 1 }
+
+执行日期：20161108093732
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.003407
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "CityName" : "上海市", "ShopName" : "我的店铺", "ShopLogo" : "", "ShopId" : 43, "FreightFreeAmout" : 100 }], "Count" : 1 }
+
+执行日期：20161108094343
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.014573
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "CityName" : "上海市", "ShopName" : "我的店铺", "ShopLogo" : "", "ShopId" : 43, "FreightFreeAmout" : 100 }], "Count" : 1 }
+
+执行日期：20161108094548
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.003846
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "CityName" : "上海市", "ShopName" : "我的店铺", "ShopLogo" : "", "ShopId" : 43, "FreightFreeAmout" : 100 }], "Count" : 1 }
+
+执行日期：20161108094625
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.002722
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "CityName" : "上海市", "ShopName" : "我的店铺", "ShopLogo" : "", "ShopId" : 43, "FreightFreeAmout" : 100 }], "Count" : 1 }
+
+执行日期：20161108094831
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.005386
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "CityName" : "上海市", "ShopName" : "我的店铺", "ShopLogo" : "", "ShopId" : 43, "FreightFreeAmout" : 100 }], "Count" : 1 }
+
+执行日期：20161108094856
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&$Limit=1
+超时时间:5
+处理时间:0.004808
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "UserId" : "57c99a85a0904d129492e305", "CityCode" : 310100, "CityName" : "上海市", "ShopType" : 1, "ShopName" : "我的店铺", "ShopLogo" : "", "ShopOwnerName" : "刘深远", "ShopOwnerMobile" : "18621504906", "ShopDescription" : "简介", "ShopAddress" : "地址", "DeliverAddress" : "发货地址", "ReturnAddress" : "退货地址", "ShopId" : 43, "CreatTime" : 1473225092, "IsDisable" : 0, "Fans" : 0, "Balance" : 2.4000000000000004, "IsOpenAdminAccount" : 1, "FreightAmout" : 12, "FreightFreeAmout" : 100, "ZhifubaoAccount" : "15221965942", "ProductId" : 0, "IsHide" : 0, "ZhifubaoKaihu" : "刘深远", "Balanc" : -1.7000000000000004, "BalanceReal" : 2 }], "Count" : 1 }
+
+执行日期：20161108094933
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&$Limit=1
+超时时间:5
+处理时间:0.003227
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "UserId" : "57c99a85a0904d129492e305", "CityCode" : 310100, "CityName" : "上海市", "ShopType" : 1, "ShopName" : "我的店铺", "ShopLogo" : "", "ShopOwnerName" : "刘深远", "ShopOwnerMobile" : "18621504906", "ShopDescription" : "简介", "ShopAddress" : "地址", "DeliverAddress" : "发货地址", "ReturnAddress" : "退货地址", "ShopId" : 43, "CreatTime" : 1473225092, "IsDisable" : 0, "Fans" : 0, "Balance" : 2.4000000000000004, "IsOpenAdminAccount" : 1, "FreightAmout" : 12, "FreightFreeAmout" : 100, "ZhifubaoAccount" : "15221965942", "ProductId" : 0, "IsHide" : 0, "ZhifubaoKaihu" : "刘深远", "Balanc" : -1.7000000000000004, "BalanceReal" : 2 }], "Count" : 1 }
+
+执行日期：20161108094936
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&$Limit=1
+超时时间:5
+处理时间:0.013954
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "UserId" : "57c99a85a0904d129492e305", "CityCode" : 310100, "CityName" : "上海市", "ShopType" : 1, "ShopName" : "我的店铺", "ShopLogo" : "", "ShopOwnerName" : "刘深远", "ShopOwnerMobile" : "18621504906", "ShopDescription" : "简介", "ShopAddress" : "地址", "DeliverAddress" : "发货地址", "ReturnAddress" : "退货地址", "ShopId" : 43, "CreatTime" : 1473225092, "IsDisable" : 0, "Fans" : 0, "Balance" : 2.4000000000000004, "IsOpenAdminAccount" : 1, "FreightAmout" : 12, "FreightFreeAmout" : 100, "ZhifubaoAccount" : "15221965942", "ProductId" : 0, "IsHide" : 0, "ZhifubaoKaihu" : "刘深远", "Balanc" : -1.7000000000000004, "BalanceReal" : 2 }], "Count" : 1 }
+
+执行日期：20161108094943
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&$Limit=1
+超时时间:5
+处理时间:0.012447
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "UserId" : "57c99a85a0904d129492e305", "CityCode" : 310100, "CityName" : "上海市", "ShopType" : 1, "ShopName" : "我的店铺", "ShopLogo" : "", "ShopOwnerName" : "刘深远", "ShopOwnerMobile" : "18621504906", "ShopDescription" : "简介", "ShopAddress" : "地址", "DeliverAddress" : "发货地址", "ReturnAddress" : "退货地址", "ShopId" : 43, "CreatTime" : 1473225092, "IsDisable" : 0, "Fans" : 0, "Balance" : 2.4000000000000004, "IsOpenAdminAccount" : 1, "FreightAmout" : 12, "FreightFreeAmout" : 100, "ZhifubaoAccount" : "15221965942", "ProductId" : 0, "IsHide" : 0, "ZhifubaoKaihu" : "刘深远", "Balanc" : -1.7000000000000004, "BalanceReal" : 2 }], "Count" : 1 }
+
+执行日期：20161108095152
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&$Limit=1
+超时时间:5
+处理时间:0.014753
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "UserId" : "57c99a85a0904d129492e305", "CityCode" : 310100, "CityName" : "上海市", "ShopType" : 1, "ShopName" : "我的店铺", "ShopLogo" : "", "ShopOwnerName" : "刘深远", "ShopOwnerMobile" : "18621504906", "ShopDescription" : "简介", "ShopAddress" : "地址", "DeliverAddress" : "发货地址", "ReturnAddress" : "退货地址", "ShopId" : 43, "CreatTime" : 1473225092, "IsDisable" : 0, "Fans" : 0, "Balance" : 2.4000000000000004, "IsOpenAdminAccount" : 1, "FreightAmout" : 12, "FreightFreeAmout" : 100, "ZhifubaoAccount" : "15221965942", "ProductId" : 0, "IsHide" : 0, "ZhifubaoKaihu" : "刘深远", "Balanc" : -1.7000000000000004, "BalanceReal" : 2 }], "Count" : 1 }
+
+执行日期：20161108095632
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57ca7b11a090511294d86edd&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.01363
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161108100618
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.004154
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "CityName" : "上海市", "ShopName" : "我的店铺", "ShopLogo" : "", "ShopId" : 43, "FreightFreeAmout" : 100 }], "Count" : 1 }
+
+执行日期：20161108101729
+接口路径:http://tapi.pingoing.cn/restful.PYX3_Shop.Query?id=57cfa184a090421aa0e7179d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.004146
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57cfa184a090421aa0e7179d", "CityName" : "上海市", "ShopName" : "我的店铺", "ShopLogo" : "", "ShopId" : 43, "FreightFreeAmout" : 100 }], "Count" : 1 }
+

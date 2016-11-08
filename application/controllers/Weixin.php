@@ -11,23 +11,24 @@ class Weixin extends MY_Controller {
 
 	public function index(){
 		$this->load->model('weixin_model');
-		//$this->weixin_model->valid(); //验证token
+		// echo "123";
+		$this->weixin_model->valid(); //验证token
 
 		$this->weixin_model->GetPostStr();
 	}
 
-	/*public function getOpenId(){
-		$userInfo = $this->weixin_model->getUserInfo();
-		print_r($userInfo);
-	}*/
+	// public function getOpenId(){
+	// 	$userInfo = $this->weixin_model->getUserInfo();
+	// 	print_r($userInfo);
+	// }
 
-	/*public function TestCreatMenu(){
+	public function TestCreatMenu(){
 		$this->load->model('weixin_model');
-		$arr_sub1[] = array(
-			'type' => 'view',
-			'name' => '我的订单',
-			'url'  => 'http://new.pingoing.cn/order/orderlist?newlogin=1'	
-		);
+		// $arr_sub1[] = array(
+		// 	'type' => 'view',
+		// 	'name' => '我的订单',
+		// 	'url'  => 'http://new.pingoing.cn/order/orderlist?newlogin=1'	
+		// );
 
 		//$arr_sub1[] = array(
 		//	'type' => 'view',
@@ -35,17 +36,17 @@ class Weixin extends MY_Controller {
 		//	'url'  => 'http://wx.pingoing.cn/space/coupon?newlogin=1'	
 		//);
 
-		$arr_sub1[] = array(
-			'type' => 'view',
-			'name' => '个人中心',
-			'url'  => 'http://wx.pingoing.cn/space?newlogin=1'	
-		);
+		// $arr_sub1[] = array(
+		// 	'type' => 'view',
+		// 	'name' => '个人中心',
+		// 	'url'  => 'http://wx.pingoing.cn/space?newlogin=1'	
+		// );
 
-		$arr_sub1[] = array(
-			'type' => 'view',
-			'name' => '进群抢优惠劵',
-			'url'  => 'http://mp.weixin.qq.com/s?__biz=MzIzMDA1MDgzNQ==&mid=400893341&idx=1&sn=0f08cdf633b9780dbdb894e10df3ab79'	
-		);
+		// $arr_sub1[] = array(
+		// 	'type' => 'view',
+		// 	'name' => '进群抢优惠劵',
+		// 	'url'  => 'http://mp.weixin.qq.com/s?__biz=MzIzMDA1MDgzNQ==&mid=400893341&idx=1&sn=0f08cdf633b9780dbdb894e10df3ab79'	
+		// );
 
 		$arr_sub3[] = array(
 			'type' => 'click',
@@ -79,7 +80,7 @@ class Weixin extends MY_Controller {
 		$arr[] = array(
 			'type' => 'view',
 			'name' => '下单',
-			'url'  => 'http://new.pingoing.cn?newlogin=1'
+			'url'  => 'http://twx.pingoing.cn/?newlogin=1'
 		);
 		$arr[] = array(
 			'name' => '在线客服',
@@ -88,6 +89,6 @@ class Weixin extends MY_Controller {
 
 		$menu['button'] = $arr;
 		$this->weixin_model->creatMenu($menu);
-	}*/
+	}
 
 }

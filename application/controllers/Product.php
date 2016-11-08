@@ -40,6 +40,12 @@ class Product extends MY_Controller {
 		$data['shop'] = $shop;
 		if($teamid)$data['teamid'] = $teamid;
 
+		$this->load->model('weixin_model');
+		$getSignPackage = $this->weixin_model->getSignPackage();
+		$this->weixin_model->getAccessToken();
+		$this->weixin_model->getJsapiTicket();
+		$data['signPackage'] = $getSignPackage;
+
 		if($pro['ProductType']==1){
 			$this->view('product',$data);
 		}elseif($pro['ProductType']==2){
@@ -51,6 +57,7 @@ class Product extends MY_Controller {
 		}elseif($pro['ProductType']==5){
 			$this->view('pintuan_product',$data);
 		}
+		
 	}
 
 	public function creatTuan($id){	

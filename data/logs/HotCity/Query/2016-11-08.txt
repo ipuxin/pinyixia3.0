@@ -1,0 +1,12 @@
+执行日期：20161108090949
+接口路径:http://tapi.pingoing.cn/restful.PYX3_HotCity.Query?~=
+超时时间:5
+处理时间:0.010114
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57ec241fa090420f70198e7d", "CityCode" : 500100, "CityName" : "重庆市", "ProvinceCode" : 500000, "ProvinceName" : "重庆市" }, { "id" : "57ec2421a090420f70198e7f", "CityCode" : 110100, "CityName" : "北京市", "ProvinceCode" : 110000, "ProvinceName" : "北京市" }, { "id" : "57ec245ea090420f70198e80", "CityCode" : 120100, "CityName" : "天津市", "ProvinceCode" : 120000, "ProvinceName" : "天津市" }], "Count" : 3 }
+
+执行日期：20161108091553
+接口路径:http://tapi.pingoing.cn/restful.PYX3_HotCity.Query?~=
+超时时间:5
+处理时间:0.01101
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57ec241fa090420f70198e7d", "CityCode" : 500100, "CityName" : "重庆市", "ProvinceCode" : 500000, "ProvinceName" : "重庆市" }, { "id" : "57ec2421a090420f70198e7f", "CityCode" : 110100, "CityName" : "北京市", "ProvinceCode" : 110000, "ProvinceName" : "北京市" }, { "id" : "57ec245ea090420f70198e80", "CityCode" : 120100, "CityName" : "天津市", "ProvinceCode" : 120000, "ProvinceName" : "天津市" }], "Count" : 3 }
+
