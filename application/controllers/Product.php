@@ -80,6 +80,7 @@ class Product extends MY_Controller {
 	}
 
 	public function payone($id){
+//        exit($id);//http://twx.pingoing.cn/product/pay/payone_806.$id=806
 		$this->load->model('shop_model');
 		$arr = array('ProductId' => $id);
 		$pro = $this->product_model->getProduct($arr,$where);

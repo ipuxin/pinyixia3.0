@@ -308,6 +308,7 @@ class Order extends MY_Controller {
 			$shop = $this->shop_model->getShop($order['ShopId']);
 			$data['shop'] = $shop;
 		}
+		var_dump($data);exit;
 		$this->view('space/order_info',$data);
 	}
 	

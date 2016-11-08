@@ -1,6 +1,9 @@
 
 var City = {
 
+	/**
+	 * 默认点击事件
+	 */
 	defaultClick:function(){
 		$('input').bind('input',function(){
 			var text = $(this).val();
@@ -65,6 +68,10 @@ var City = {
 		});
 	},
 
+	/**
+	 *
+	 * @param list
+	 */
 	printHotCityList:function(list){
 		var tit = $('#rm');
 		var moren = $('cityBox').eq(0).find('city').eq(1);
@@ -134,6 +141,7 @@ var City = {
 		City.defaultClick();
 		City.getHotCityList();
 		City.getCityList();
+		//浏览器大小改变时,改变样式
 		$(window).resize(function(){
 			City.defaultBtns();
 		});

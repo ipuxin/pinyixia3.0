@@ -85,6 +85,7 @@ class Divisions_model extends MY_Model {
 		return $response;
 	}
 
+    //按首字母排序获取所有城市列表
 	function getCityListByLetter(){
 		$url = $this->getApiBase().'restful.city?~Letter=1@Name@ProvinceId@ProvinceName@Letter';
 		$response = $this->getcurl($url,1);
@@ -94,6 +95,7 @@ class Divisions_model extends MY_Model {
 				$response['Result'][$k]['CityCode'] = $v['id'];
 			}
 		}
+//		var_dump($response);exit;
 		return $response;
 	}
 	

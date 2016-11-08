@@ -16,7 +16,11 @@ class City extends MY_Controller {
 		$this->load->model('divisions_model');
 	}
 
+    /**
+     * 入口首页,显示城市列表
+     */
 	public function cityList(){
+
 		$this->view('city_select',$data);
 	}
 	
@@ -54,7 +58,7 @@ class City extends MY_Controller {
 		echo json_encode($data);
 	}
 
-	//按首字母排序获取城市列表
+	//按首字母排序获取所有城市列表
 	public function getCityListByLetter(){
 		$data = $this->divisions_model->getCityListByLetter();
 		echo json_encode($data);
