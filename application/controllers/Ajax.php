@@ -208,18 +208,28 @@ class Ajax extends MY_Controller {
 		$res = $this->user_model->delAddress($this->_member_userId,$addressId);
 		echo json_encode($res);
 	}
-	
+
+    /**
+     * @param string $type
+     * 获取用户地址列表
+     */
 	//type : first list
 	public function getUserAddress($type='list'){
 		extract($this->input->post());
 		if($type=='first'){
 			$addressId = 0;
 		}
+        /**
+         * userid
+         */
 		$address = $this->user_model->getAddress($this->_member_userId,$addressId,$CityCode);
 
 		echo json_encode($address);
 	}
 
+    /**
+     * 获取热门城市
+     */
 	public function getHotCitys(){
 		$this->load->model('divisions_model');
 		$list = $this->divisions_model->getHot($code);
@@ -227,6 +237,9 @@ class Ajax extends MY_Controller {
 		echo json_encode($res);
 	}
 
+    /**
+     * @param $code获取所有城市
+     */
 	public function getCityList($code){
 		$this->load->model('divisions_model');
 		$list = $this->divisions_model->getCityList($code);

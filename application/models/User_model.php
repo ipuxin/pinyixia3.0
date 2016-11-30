@@ -104,6 +104,14 @@ class User_model extends MY_Model {
 		return false;
 	}
 
+    /**
+     * @param $arr
+     * userid
+     * @param array $sel
+     * Addresses
+     * @return bool
+     * $Address = $this->getUserInfo($userId,array('Addresses'));
+     */
 	function getUserInfo($arr,$sel=array()){
 		return $this->getRow($arr,$sel);
 	}
@@ -185,6 +193,13 @@ class User_model extends MY_Model {
 		return false;
 	}
 
+    /**
+     * @param $userId
+     * @param string $addressId
+     * @param string $CityCode
+     * @return array|bool
+     * 获取用户所有地址列表
+     */
 	function getAddress($userId,$addressId = '',$CityCode = ''){
 		$Address = $this->getUserInfo($userId,array('Addresses'));
 		$Address = $Address['Addresses'];

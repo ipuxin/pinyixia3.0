@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-/* ÍøÕ¾ÅäÖÃ */
+/* ç½‘ç«™é…ç½® */
 $config['base_url'] = 'http://twx.pingoing.cn/';
 $config['res_url'] = 'http://adm.pingoing.cn';
 $config['share_url'] = 'http://twx.pingoing.cn/';
@@ -10,7 +10,7 @@ $config['file_path'] = dirname(dirname(dirname(__FILE__)));
 $config['data_log_path'] = $config['file_path'].'/data/logs/';
 $config['static_file_path'] = '/data/file/';
 
-/* »ù±¾ÅäÖÃ */
+/* åŸºæœ¬é…ç½® */
 $config['index_page'] = '';
 $config['uri_protocol']	= 'REQUEST_URI';
 $config['url_suffix'] = '';
@@ -19,7 +19,7 @@ $config['charset'] = 'UTF-8';
 $config['enable_hooks'] = FALSE;
 $config['subclass_prefix'] = 'MY_';
 
-/* ÆäËûÅäÖÃ */
+/* å…¶ä»–é…ç½® */
 $config['composer_autoload'] = FALSE;
 $config['permitted_uri_chars'] = 'a-z 0-9~%.:_\-';
 $config['allow_get_array'] = TRUE;
@@ -28,20 +28,20 @@ $config['controller_trigger'] = 'c';
 $config['function_trigger'] = 'm';
 $config['directory_trigger'] = 'd';
 
-/* logÅäÖÃ */
+/* logé…ç½® */
 $config['log_threshold'] = 0;
 $config['log_path'] = '';
 $config['log_file_extension'] = '';
 $config['log_file_permissions'] = 0644;
 $config['log_date_format'] = 'Y-m-d H:i:s';
 
-/* cacheÅäÖÃ */
+/* cacheé…ç½® */
 $config['error_views_path'] = '';
 $config['cache_path'] = '';
 $config['cache_query_string'] = FALSE;
 $config['encryption_key'] = 'faa6ddfe2b4aPYX3.015a6fds830dwer14';
 
-/* sessionÅäÖÃ */
+/* sessioné…ç½® */
 $config['sess_driver'] = 'files';
 $config['sess_cookie_name'] = 'ci_session';
 $config['sess_expiration'] = 3600*24*365;
@@ -50,18 +50,17 @@ $config['sess_match_ip'] = FALSE;
 $config['sess_time_to_update'] = 3600*24;
 $config['sess_regenerate_destroy'] = TRUE;
 
-/* cookieÅäÖÃ */
+/* cookieé…ç½® */
 $config['cookie_prefix']	= '';
 $config['cookie_domain']	= '';
 $config['cookie_path']		= '/';
 $config['cookie_secure']	= FALSE;
 $config['cookie_httponly'] 	= FALSE;
 
-
 $config['standardize_newlines'] = FALSE;
 $config['global_xss_filtering'] = FALSE;
 
-/* csrfÅäÖÃ */
+/* csrfé…ç½® */
 $config['csrf_protection'] = FALSE;
 $config['csrf_token_name'] = 'csrf_test_name';
 $config['csrf_cookie_name'] = 'csrf_cookie_name';

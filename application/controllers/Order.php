@@ -308,7 +308,8 @@ class Order extends MY_Controller {
 			$shop = $this->shop_model->getShop($order['ShopId']);
 			$data['shop'] = $shop;
 		}
-		var_dump($data);exit;
+		//http://twx.pingoing.cn/order/orderinfo/2021
+//		print_r(json_encode($data));exit;
 		$this->view('space/order_info',$data);
 	}
 	
